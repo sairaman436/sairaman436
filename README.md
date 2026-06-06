@@ -122,6 +122,4 @@ fn main() {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FFB3&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
