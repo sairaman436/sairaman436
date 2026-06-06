@@ -55,59 +55,6 @@ fn main() {
 
 ---
 
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ Sovereign Perimeter V2
-> **Discord Security Infrastructure — Production-Grade**
-
-A distributed, adversarially hardened Discord security system. Built with Welford's online algorithm, EWMA anomaly detection, Redlock-lite with atomic Lua CAS, and a Rust-implemented state machine under the hood.
-
-`Rust` `Node.js` `Redis` `Lua` `Discord.js`
-
-</td>
-<td width="50%">
-
-### 🧬 Code DNA
-> **GitHub Fingerprint Analyzer**
-
-Analyzes your GitHub commit history to generate a visual "developer identity profile" — your coding patterns, languages, activity rhythms, and style, distilled into a unique fingerprint card.
-
-`Next.js` `FastAPI` `GitHub API` `Supabase`
-
-[![Code DNA Profile](https://codedna-frontend.onrender.com/api/badge/sai-ramana-ladi-1720)](https://codedna-frontend.onrender.com/u/sai-ramana-ladi-1720)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 The Midnight 911
-> **Cinematic Automotive Showcase**
-
-Scroll-driven cinematic website for the Porsche 911 T-Hybrid — featuring WebGL paint rendering, Web Audio API engine sounds, and GSAP scroll-timeline animations.
-
-`React` `Three.js` `GSAP` `Web Audio API`
-
-</td>
-<td width="50%">
-
-### 🏪 PixelVault
-> **Niche Digital Products Marketplace**
-
-A premium landing page and marketplace concept for digital assets — built with FluidGlass React components, React Three Fiber, and cinematic scroll effects.
-
-`React` `R3F` `React Three Fiber` `TailwindCSS`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -138,10 +85,7 @@ A premium landing page and marketplace concept for digital assets — built with
 
 ### Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -151,40 +95,12 @@ A premium landing page and marketplace concept for digital assets — built with
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 
 ### Tools & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚠️ Replace `YOUR_USERNAME` with your actual GitHub username everywhere above, and set up the snake animation via [this GitHub Action](https://github.com/Platane/snk).
 
 ---
 
