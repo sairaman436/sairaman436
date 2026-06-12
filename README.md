@@ -73,15 +73,6 @@ let me = Developer {
 
 ---
 
-### trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sairaman436&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ### links
 
