@@ -1,73 +1,40 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Sai+Ramana+%F0%9F%91%8B;3rd+Year+CSE+%40+VVIT+%28JNTUK%29;ML%2FAI+Engineer+in+the+making;Rust+%7C+React+%7C+FastAPI+%7C+WebGL)](https://git.io/typing-svg)
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sai+Ramana+Ladi)](https://git.io/typing-svg)
+## Talking about Personal Stuffs:
 
-**`systems · ml/ai · cinematic web`**
+- 🔭 I'm currently working on **Sovereign Perimeter V2** — distributed Discord anti-nuke in Rust
+- 🌱 I'm currently learning **ML/AI** — Andrew Ng → Fast.ai → Hugging Face pipeline
+- 👯 I'm looking to collaborate on **open source ML/AI or systems projects**
+- 🎯 I'm targeting an **ML/AI internship before end of 3rd year**
+- 💬 Ask me about **Rust, React, Discord bots, WebGL/GSAP, distributed systems**
+- 📫 How to reach me: **24bq1a05p6@vvit.net**
+- ⚡ Active builds: **Project Doctor** · **Sovereign Perimeter V2** · **WayFind Pro**
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=800&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=40&lines=building+things+that+shouldn't+exist+yet.;if+it+runs+smooth%2C+it+ain't+ambitious+enough.)](https://git.io/typing-svg)
+## Technologies I use 📚
 
-<br/>
+[![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
+[![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://isocpp.org/)
+[![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ramana-ladi-a53562349)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/J3vvht7Rv3)
-[![mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24bq1a05p6@vvit.net)
+[![react](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
+[![threejs](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)](https://threejs.org/)
+[![tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)
+[![fastapi](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)](https://fastapi.tiangolo.com/)
+[![nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-</div>
+[![postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
+[![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
+[![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/)
 
----
+[![Onimur's github stats](https://github-readme-stats-one-lemon-69.vercel.app/api?username=sairaman436&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent) ![](https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=sairaman436&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)](https://github.com/sairaman436)
 
-```rust
-struct Developer {
-    name:      "Sai Ramana Ladi",
-    location:  "Guntur, Andhra Pradesh, IN",
-    uni:       "VVIT — 3rd Year CSE · JNTUK",
-    goal:      "ML/AI internship · before year 3 ends",
-    building:  ["Sovereign Perimeter V2", "Project Doctor", "WayFind Pro"],
-    obsessed:  ["Rust", "WebGL / GSAP", "distributed bots", "AI pipelines"],
-}
-```
+![github contribution grid snake animation](https://raw.githubusercontent.com/sairaman436/sairaman436/refs/heads/output/github-contribution-grid-snake-Light.svg)
 
----
-
-**Languages**
-
-[![langs](https://skillicons.dev/icons?i=rust,ts,py,cpp,js,java&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![frontend](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,figma&theme=dark)](https://skillicons.dev)
-
-**Backend · Infra**
-
-[![backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,docker,linux&theme=dark)](https://skillicons.dev)
-
-**ML / AI**
-
-[![ml](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,git,cloudflare,vercel&theme=dark)](https://skillicons.dev)
-
----
-
-<div align="center">
-
-[![streak](https://streak-stats.demolab.com?user=sairaman436&theme=dark&hide_border=true&background=0D1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=sairaman436&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=0f2d0f&hide_border=true&custom_title=contribution+graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![stats](https://github-readme-stats.vercel.app/api?username=sairaman436&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=888888&ring_color=39d353&include_all_commits=true&count_private=true&custom_title=github+stats)](https://github.com/sairaman436)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sairaman436&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=888888&layout=compact&langs_count=6&custom_title=top+languages)](https://github.com/sairaman436)
-
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sairaman436&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-<sub><code>// the best time to start was yesterday. the second best time is now.</code></sub>
-</div>
+⭐️ From [sairaman436](https://github.com/sairaman436)
