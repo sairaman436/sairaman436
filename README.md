@@ -1,38 +1,198 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Sai+Ramana+%F0%9F%91%8B;3rd+Year+CSE+%40+VVIT+%28JNTUK%29;ML%2FAI+Engineer+in+the+making;Rust+%7C+React+%7C+FastAPI+%7C+WebGL)](https://git.io/typing-svg)
+<div align="center">
 
-## Talking about Personal Stuffs:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Ramana%20Ladi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20ML%2FAI%20Engineer%20in%20the%20Making&descAlignY=58&descSize=16" />
 
-- 🔭 I'm currently working on **Sovereign Perimeter V2** — distributed Discord anti-nuke in Rust
-- 🌱 I'm currently learning **ML/AI** — Andrew Ng → Fast.ai → Hugging Face pipeline
-- 👯 I'm looking to collaborate on **open source ML/AI or systems projects**
-- 🎯 I'm targeting an **ML/AI internship before end of 3rd year**
-- 💬 Ask me about **Rust, React, Discord bots, WebGL/GSAP, distributed systems**
-- 📫 How to reach me: **24bq1a05p6@vvit.net**
-- ⚡ Active builds: **Project Doctor** · **Sovereign Perimeter V2** · **WayFind Pro**
+</div>
 
-## Technologies I use 📚
+<div align="center">
 
-[![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
-[![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://isocpp.org/)
-[![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+shouldn't+exist+yet.;Rust+%7C+React+%7C+FastAPI+%7C+WebGL+%7C+ML%2FAI;3rd+Year+CSE+%40+VVIT+(JNTUK)+%E2%80%A2+Guntur%2C+AP+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-[![react](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
-[![threejs](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)](https://threejs.org/)
-[![tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)
-[![fastapi](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)](https://fastapi.tiangolo.com/)
-[![nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+</div>
 
-[![postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
-[![redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
-[![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
-[![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
-[![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/)
+<br/>
 
-[![Onimur's github stats](https://github-readme-stats-one-lemon-69.vercel.app/api?username=sairaman436&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent) ![](https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=sairaman436&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)](https://github.com/sairaman436)
+<div align="center">
 
-⭐️ From [sairaman436](https://github.com/sairaman436)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ramana-ladi-a53562349)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/J3vvht7Rv3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24bq1a05p6@vvit.net)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairaman436)
+
+</div>
+
+<br/>
+
+---
+
+## `> whoami`
+
+```rust
+struct Developer {
+    name:       "Sai Ramana Ladi",
+    role:       "3rd Year CSE @ VVIT (JNTUK)",
+    location:   "Guntur, Andhra Pradesh 🇮🇳",
+    mission:    "ML/AI Internship — models that solve real problems",
+    currently:  ["Sovereign Perimeter V2", "Project Doctor", "WayFind Pro", "Code DNA"],
+    obsessions: [
+        "Systems programming in Rust",
+        "Cinematic web (WebGL + GSAP + Three.js)",
+        "Distributed Discord infrastructure",
+        "AI/ML pipelines that ship",
+    ],
+    quote:      "If it runs smooth, it ain't ambitious enough.",
+}
+```
+
+<br/>
+
+---
+
+## `> ls ~/projects`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Sovereign Perimeter V2
+**Distributed Discord anti-nuke — built in Rust**
+
+Welford's algorithm + EWMA for anomaly detection. Redlock-lite distributed locking. Formal state machine. Nanosecond-latency threat response.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Serenity](https://img.shields.io/badge/Serenity-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔧 Project Doctor
+**Open-source local-first automation — free alternative to n8n**
+
+Full versioned roadmap v0.1–v0.5. Safety model. Contributor docs. Runs entirely on your machine.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗺️ WayFind Pro
+**Browser navigation app with a dual-mode AI co-pilot**
+
+Groq API online / Ollama offline fallback. Cinematic amber/dark UI. MapLibre GL JS + OSRM routing.
+
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🧬 Code DNA
+**GitHub history analyzer — generates visual developer identity profiles**
+
+Next.js + FastAPI microservice. PostgreSQL with pgvector. D3.js visualizations. Your code, your fingerprint.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `> cat tech_stack.toml`
+
+<br/>
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Creative**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Data, Infra & AI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<br/>
+
+---
+
+## `> top --sort=activity`
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=sairaman436&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&ring_color=7C83FD" />
+<img height="180em" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=sairaman436&layout=compact&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=7C83FD&text_color=c9d1d9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sairaman436&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=FF6B6B&currStreakLabel=7C83FD&sideLabels=7C83FD&dates=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+## `> tail -f mission.log`
+
+```
+[CURRENT]  📚  3rd Year CSE @ VVIT (JNTUK) — Guntur, AP
+[LEARNING] 🤖  ML/AI: Andrew Ng → Fast.ai → Hugging Face
+[SHARPENING] 🦀  Rust — because memory safety isn't optional
+[TARGET]   🎯  ML/AI Internship — end of 3rd year
+[BUILDING] 🔭  Sovereign Perimeter V2 · Project Doctor · WayFind Pro · Code DNA
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=the+best+time+to+start+was+yesterday.&fontSize=16&fontColor=7C83FD&animation=twinkling&fontAlignY=65" />
+
+</div>
