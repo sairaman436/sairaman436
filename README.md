@@ -35,6 +35,4 @@
 
 [![Onimur's github stats](https://github-readme-stats-one-lemon-69.vercel.app/api?username=sairaman436&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent) ![](https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=sairaman436&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent)](https://github.com/sairaman436)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Sai+Ramana+%F0%9F%91%8B;3rd+Year+CSE+%40+VVIT+(JNTUK);ML%2FAI+Engineer+in+the+making;Rust+%7C+React+%7C+FastAPI+%7C+WebGL)](https://git.io/typing-svg)
-
 ⭐️ From [sairaman436](https://github.com/sairaman436)
