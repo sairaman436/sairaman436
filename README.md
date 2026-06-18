@@ -99,8 +99,7 @@ struct Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=sairaman436&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&ring_color=7C83FD" />
-<img height="180em" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=sairaman436&layout=compact&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=7C83FD&text_color=c9d1d9" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sairaman436&theme=tokyo-night&bg_color=0d1117&color=7C83FD&line=7C83FD&point=FF6B6B&hide_border=true&radius=6)](https://github.com/sairaman436)
 
 </div>
 
