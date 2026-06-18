@@ -14,6 +14,14 @@
 
 <div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=sairaman436&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS)](https://github.com/sairaman436)
+
+</div>
+
+<br/>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ramana-ladi-a53562349)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/J3vvht7Rv3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24bq1a05p6@vvit.net)
@@ -45,8 +53,6 @@ struct Developer {
 ```
 
 <br/>
-
----
 
 ---
 
@@ -115,6 +121,24 @@ struct Developer {
 
 ---
 
+## `> ./snake --watch`
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sairaman436/sairaman436/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sairaman436/sairaman436/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sairaman436/sairaman436/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
 ## `> tail -f mission.log`
 
 ```
@@ -124,6 +148,20 @@ struct Developer {
 [TARGET]   🎯  ML/AI Internship — end of 3rd year
 [BUILDING] 🔭  Sovereign Perimeter V2 · Project Doctor · WayFind Pro · Code DNA
 ```
+
+<br/>
+
+---
+
+## `> fortune | cowsay`
+
+<br/>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 <br/>
 
