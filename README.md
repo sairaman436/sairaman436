@@ -12,12 +12,6 @@
 
 <br/>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sairaman436&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS)](https://github.com/sairaman436)
-
-</div>
-
 <br/>
 
 <div align="center">
